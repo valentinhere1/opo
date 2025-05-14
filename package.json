@@ -1,7 +1,7 @@
 {
-  "name": "novel-editor",
+  "name": "editor",
   "version": "0.0.1",
-  "description": "Editor de texto especializado para escritura de novelas",
+  "description": "Editor de texto especializado para escritura",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
